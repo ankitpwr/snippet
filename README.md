@@ -82,7 +82,7 @@ For questions or suggestions, please contact ReHere is a detailed and profession
 
 # SnippetBin - Your Personal Code Library
 
-![SnippetBin Dashboard](${imageUrl})
+![SnippetBin Dashboard](./assets/dashboard.png)
 *A clean, card-based interface showing the personal snippet collection.*
 
 ## Description
